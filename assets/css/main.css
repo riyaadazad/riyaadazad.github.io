@@ -1,6 +1,8 @@
 * {
 
     text-align: center;
+    font-size: 10px;
+    font-size: min(max(15px, 2vw), 100px);
 
 }
 
@@ -9,5 +11,120 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
+    font-family: 'Catamaran', sans-serif;
+    background: rgb(240,71,3);
+    background: linear-gradient(90deg, rgba(240,71,3,1) 0%, rgba(255,163,0,1) 100%);
+    background-size: 400% 400%;
+	animation: gradient 5s ease infinite;
+    color: white;
+
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+section {
+
+    padding: 10% 15%;
+
+}
+
+.profile {
+
+    max-width: 25%;
+    border: 2px solid white;
+    border-radius: 50%;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .profile {
+    max-width: 50%;
+  }
+}
+
+h1 {
+
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: 700;
+    font-size: min(max(50px, 6vw), 300px);
+
+}
+
+.home h3, .home h3 em { 
+
+    font-family: 'Cardo', serif;
+    font-weight: 700;
+    font-size: min(max(25px, 3.5vw), 300px);
+
+}
+
+.home div a {
+
+    text-transform: uppercase;
+    border: none;
+    color: white;
+    background-color: black;
+    margin: 1%;
+    padding: 2%;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: min(max(15px, 1vw), 100px);
+    font-weight: 700;
+
+}
+
+.profile, .home div a {
+
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12);
+
+  display: inline-block;
+
+}
+
+#call-to-action {
+
+    background-color: #00ab66;
+
+}
+
+#about-button {
+
+    background-color: #0072b1;
+
+}
+
+#pricing-button {
+
+    background-color: transparent;
+    box-shadow: none;
+
+}
+
+footer {
+
+    padding-top: 10%;
+
+}
+
+footer a {
+
+    color: inherit;
 
 }
