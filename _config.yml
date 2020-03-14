@@ -1,1 +1,31 @@
-theme: jekyll-theme-cayman
+title: Riyaad Azad
+email: azad.riyaad@gmail.com
+
+call-to-action: schedule a free consultation
+about-button: see my work
+pricing-button: view pricing
+
+copyright: Copyright &copy; 2020 Riyaad Azad. All rights reserved.
+
+pricing-package-a: professional
+pricing-package-a-price: $249.99
+pricing-package-a-billing: 75% due upfront
+
+pricing-package-b: webmaster
+pricing-package-b-price: $595.99
+pricing-package-b-billing: 50% due upfront
+
+pricing-package-c: pay-as-you-go
+pricing-package-c-price: $0.99
+pricing-package-c-billing: per SLOC*, billed weekly
+
+pricing-package-d: hourly
+pricing-package-d-price: $24.99
+pricing-package-d-billing: per hour, billed weekly
+
+pricing-disclaimer: I will design & code your site at competitive rates (keep in mind that most websites usually cost thousands of dollars). Note that pricing is subject to change and does not include the cost of an annual domain subscription or the 5% administrative fee charged per transaction/invoice. Prices are negotiable (ask about the EXCLUSIVE nonprofit discount!). Schedule a free consultation today and get the price you deserve!
+
+plugins: 
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-seo-tag
