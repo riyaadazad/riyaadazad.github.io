@@ -1,5 +1,3 @@
-# Pardon the interruption!
+# Riyaad Azad
 
-This site is under construction. Please stay tuned for a brand new look!
-
-For inquiries, contact [azad.riyaad@gmail.com](mailto:azad.riyaad@gmail.com).
+Visit my personal website at [riyaadazad.github.io](https://riyaadazad.github.io)!
