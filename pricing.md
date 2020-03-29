@@ -18,7 +18,7 @@ title: Fair Pricing & Quality Service
 
             <h6>$100 Initial Fee +</h6>
 
-            <h1 class="card-title">$35</h1>
+            <h1 class="card-title">$99.99</h1>
 
             <p class="card-text">billed weekly</p>
 
@@ -80,7 +80,7 @@ title: Fair Pricing & Quality Service
 
             <h6>$100 Initial Fee +</h6>
 
-            <h1 class="card-title">$55</h1>
+            <h1 class="card-title">$199.99</h1>
 
             <p class="card-text">billed weekly</p>
 
@@ -142,7 +142,7 @@ title: Fair Pricing & Quality Service
 
             <h6>$100 Initial Fee +</h6>
 
-            <h1 class="card-title">$75</h1>
+            <h1 class="card-title">$299.99</h1>
 
             <p class="card-text">billed weekly</p>
 
