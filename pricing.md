@@ -14,75 +14,13 @@ title: Fair Pricing & Quality Service
 
         <div class="card-header" style="font-family: 'Expletus Sans', sans-serif;">
 
-            <h4>Basic</h4>
-
-            <h6>$100 Initial Fee +</h6>
-
-            <h1 class="card-title">$99.99</h1>
-
-            <p class="card-text">billed weekly</p>
-
-        </div>
-
-        <div class="card-body">
-
-            <ul class="list-group list-group-flush">
-
-                <li class="list-group-item">Static Site</li>
-
-                <li class="list-group-item">Unlimited Pages</li>
-
-                <li class="list-group-item">Unlimited Revisions</li>
-
-                <li class="list-group-item">Mobile-Ready (Responsive)</li>
-
-                <li class="list-group-item">Blog-Ready</li>
-
-                <li class="list-group-item">Site Analytics</li>
-
-                <li class="list-group-item">Search Engine Optimization</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-            </ul>
-
-        </div>
-
-        <div class="card-footer" style="font-family: 'Expletus Sans', sans-serif;">
-
-            <small class="text-muted">
-            
-                Cancel Anytime
-            
-            </small>
-
-        </div>
-
-    </div>
-
-    <div class="card shadow-sm">
-
-        <div class="card-header" style="font-family: 'Expletus Sans', sans-serif;">
-
             <h4>Professional</h4>
 
             <h6>$100 Initial Fee +</h6>
 
-            <h1 class="card-title">$199.99</h1>
+            <h1 class="card-title">$45.99</h1>
 
-            <p class="card-text">billed weekly</p>
+            <p class="card-text">billed weekly, cancel anytime</p>
 
         </div>
 
@@ -104,31 +42,7 @@ title: Fair Pricing & Quality Service
 
                 <li class="list-group-item">Search Engine Optimization</li>
 
-                <li class="list-group-item">Brand Strategy</li>
-
-                <li class="list-group-item">Dynamic Site (Wordpress, etc.)</li>
-
-                <li class="list-group-item">Priority Service</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
-                <li class="list-group-item">&bullet;</li>
-
             </ul>
-
-        </div>
-
-        <div class="card-footer" style="font-family: 'Expletus Sans', sans-serif;">
-
-            <small class="text-muted">
-            
-                Cancel Anytime
-            
-            </small>
 
         </div>
 
@@ -142,9 +56,9 @@ title: Fair Pricing & Quality Service
 
             <h6>$100 Initial Fee +</h6>
 
-            <h1 class="card-title">$299.99</h1>
+            <h1 class="card-title">$99.99</h1>
 
-            <p class="card-text">billed weekly</p>
+            <p class="card-text">billed weekly, cancel anytime</p>
 
         </div>
 
@@ -152,23 +66,11 @@ title: Fair Pricing & Quality Service
 
             <ul class="list-group list-group-flush">
 
-                <li class="list-group-item">Static Site</li>
-
-                <li class="list-group-item">Unlimited Pages</li>
-
-                <li class="list-group-item">Unlimited Revisions</li>
-
-                <li class="list-group-item">Mobile-Ready (Responsive)</li>
-
-                <li class="list-group-item">Blog-Ready</li>
-
-                <li class="list-group-item">Site Analytics</li>
-
-                <li class="list-group-item">Search Engine Optimization</li>
+                <li class="list-group-item"><strong>Everything in Professional +</strong></li>
 
                 <li class="list-group-item">Brand Strategy</li>
 
-                <li class="list-group-item">Dynamic Site (Wordpress, etc.)</li>
+                <li class="list-group-item">Dynamic Site (e.g. Wordpress)</li>
 
                 <li class="list-group-item">Priority Service</li>
 
@@ -178,19 +80,29 @@ title: Fair Pricing & Quality Service
 
                 <li class="list-group-item">Guest Blogging</li>
 
-                <li class="list-group-item font-italic">And More!</li>
-
             </ul>
 
         </div>
 
-        <div class="card-footer" style="font-family: 'Expletus Sans', sans-serif;">
+    </div>
 
-            <small class="text-muted">
-            
-                Cancel Anytime
-            
-            </small>
+    <div class="card shadow-sm">
+
+        <div class="card-header" style="font-family: 'Expletus Sans', sans-serif;">
+
+            <h4>Custom</h4>
+
+            <h6>$100 Initial Fee +</h6>
+
+            <h1 class="card-title">$_____</h1>
+
+            <p class="card-text">flexible billing</p>
+
+        </div>
+
+        <div class="card-body h3">
+
+            I WANT to work with you. <br> <br> :-) <br> <br> Let's get in touch and work out a price that's fair for both of us!
 
         </div>
 
